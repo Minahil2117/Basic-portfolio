@@ -6,7 +6,7 @@ This website showcases my skills, projects, and contact information in an elegan
 📸 Live Demo
 
 👉 Live Website: https://minahil2117.github.io/Basic-portfolio/
-👉 Repository: https://github.com/Minahil2117/Basic-portfolio
+👉 Repository: https://github.com/Minahil2117/Basic-portfolio/tree/main
 
 ✨ Features
 🔹 Modern UI/UX
